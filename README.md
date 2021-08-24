@@ -1,2 +1,1 @@
-# django_hello
-TaskManager
+# Python Django Task Manager
